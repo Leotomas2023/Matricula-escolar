@@ -1,0 +1,7 @@
+body { font-family: sans-serif; margin:0; padding:0; background:#f4f4f4; }
+header { text-align:center; padding:2rem; background:#005bbb; color:#fff; }
+header .btn { display:inline-block; padding:1rem 2rem; background:#ffdd00; color:#005bbb; text-decoration:none; margin-top:1rem; border-radius:5px; }
+main { padding:2rem; background:#fff; max-width:500px; margin:2rem auto; border-radius:8px; }
+form input, form button { width:100%; padding:0.8rem; margin:0.6rem 0; border:1px solid #ccc; border-radius:4px; }
+form button { background:#005bbb; color:#fff; border:none; cursor:pointer; }
+footer { text-align:center; padding:1rem; background:#222; color:#eee; }
